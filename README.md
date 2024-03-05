@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Bilal HAJJI,a junior a fullstack software engineer and a machine learning enthusiast.
+I am Bilal HAJJI, a junior a fullstack software engineer and a machine learning enthusiast.
 
 Engineering student at Ecole Centrale Casablanca and ESSEC Business School.
 
