@@ -13,4 +13,6 @@ Engineering student at Ecole Centrale Casablanca and ESSEC Business School.
 
 Mail: bilal.hajji@centrale-casablanca.ma
 
+Portfolio : http://www.bilalhajji.me/
+
 Linkedin : https://www.linkedin.com/in/bilalhajji/
