@@ -2,7 +2,7 @@
 I am Bilal HAJJI, a passionate Data Science and ML student, pursuing a Double Degree in Data Science at Politecnico di Torino and Centrale Casablanca.
 
 
-🔭 Working on Data ML && GenAI (personal and freelance) projects
+🔭 Working on Data, ML && GenAI (personal and freelance) projects
 
 🌱 Keeping up with the innovations in AI
 
