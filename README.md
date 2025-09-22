@@ -9,8 +9,8 @@ I am Bilal HAJJI, a passionate Data Science and ML student, pursuing a Double De
 👯 Looking to collaborate on dev, ML, and DL projects.
 
 Mails: 
-s335370@studenti.polito.it
-bilal.hajji@centrale-casablanca.ma
+s335370@studenti.polito.it - 
+bilal.hajji@centrale-casablanca.ma - 
 bilal.hajji.prv@gmail.com
 
 
